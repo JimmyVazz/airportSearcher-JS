@@ -1,0 +1,11 @@
+.hero.is-medium.landing-bg {
+    background-repeat: no-repeat;
+    background: url("./img/bg.jpg") center center;
+    background-size: cover;
+}
+
+.text-header {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
